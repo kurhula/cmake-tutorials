@@ -1,0 +1,3 @@
+/Users/musabaloyi/Practice/cmake-tutorials/project1/CMakeFiles/rebuild_cache.dir
+/Users/musabaloyi/Practice/cmake-tutorials/project1/CMakeFiles/edit_cache.dir
+/Users/musabaloyi/Practice/cmake-tutorials/project1/CMakeFiles/simple.dir
